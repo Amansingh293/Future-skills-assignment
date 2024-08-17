@@ -47,3 +47,6 @@ yarn install
 12. npm start
    # or
    yarn start
+
+
+   Tech Stack used => Html , CSS , Reactjs , Tailwind CSS , Mysql , Nodejs
