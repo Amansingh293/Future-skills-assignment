@@ -8,6 +8,7 @@
 ## Instructions / Steps to run project on local machine
 
 ### Clone the Repository
+(Below are the commands)
 
 First, clone the repository to your local machine:
 
@@ -15,38 +16,20 @@ First, clone the repository to your local machine:
 
 2. cd Future-skills-assignment
 
-3. Navigate to the frontend folder:
+FrontEnd=>
 
-4. cd frontend
+3. Navigate to the frontend folder:  => cd frontend
 
-5. Set up the Vite React app:
+4. Set up the Vite React app: =>  npm install   # or   yarn install
 
-6. npm install
-   # or
-   yarn install
+5. Start the Vite development server: =>  npm run dev   # or   yarn dev
 
-7. Start the Vite development server:
+Backend=>
 
-8. npm run dev
-   # or
-   yarn dev
+6. Navigate to the backend folder: =>   cd ../backend
+ 
+7. Set up the Node.js app: =>   npm install   # or   yarn install
 
-Backend
-Navigate to the backend folder:
+8. Start the Node.js server: =>   npm start   # or    yarn start
 
-9. cd ../backend
- Set up the Node.js app:
-
-10. npm install
-# or
-yarn install
-
-
-11. Start the Node.js server:
-
-12. npm start
-   # or
-   yarn start
-
-
-   Tech Stack used => Html , CSS , Reactjs , Tailwind CSS , Mysql , Nodejs
+# Tech Stack used => Html , CSS , Reactjs , Tailwind CSS , Mysql , Nodejs , express
