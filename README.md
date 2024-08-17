@@ -1,27 +1,44 @@
-# Help Center API Assignment
+# HelpCenter Project Complete
 
-## Instructions
+## Instructions / Steps to run project on local machine
 
-1. **Clone the Repository:**
-   ```bash
-   git clone https://github.com/iAmritMalviya/fullstack-assignment
-   cd fullstack-assignment
-   ```
+### Clone the Repository
 
-2. **Frontend:**
-   - Create a React app in the `frontend` folder.
-   - Follow the instructions in `frontend.md` to complete the frontend.
+First, clone the repository to your local machine:
 
-3. **Backend:**
-   - Create a Node.js app in the `backend` folder.
-   - Follow the `backend.md` instructions to complete the backend.
+1. git clone https://github.com/Amansingh293/Future-skills-assignment.git
 
-4. **Push Your Work:**
-   - Push both the frontend and backend apps to the same repository.
-   - Make sure the repository is public.
+2. cd Future-skills-assignment
 
-5. **Submit Your Work:**
-   - Paste the GitHub repository link in the Google form you received after pushing your code.
+3. Navigate to the frontend folder:
 
----
+4. cd frontend
 
+5. Set up the Vite React app:
+
+6. npm install
+   # or
+   yarn install
+
+7. Start the Vite development server:
+
+8. npm run dev
+   # or
+   yarn dev
+
+Backend
+Navigate to the backend folder:
+
+9. cd ../backend
+ Set up the Node.js app:
+
+10. npm install
+# or
+yarn install
+
+
+11. Start the Node.js server:
+
+12. npm start
+   # or
+   yarn start
