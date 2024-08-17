@@ -33,4 +33,4 @@ Backend=>
 8. Start the Node.js server: =>   npm start   # or    yarn start
 
 
-#Tech stack => Html , CSS , Reactjs , Nodejs , MySQL , Express
+# Tech stack => Html , CSS , Reactjs , Nodejs , MySQL , Express
