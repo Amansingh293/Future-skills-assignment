@@ -34,3 +34,5 @@ Backend=>
 
 
 # Tech stack => Html , CSS , Reactjs , Nodejs , MySQL , Express
+
+#Note => One first click of vercel link it will take 5-7 sec as (Render where server is deployed) hibernates the server if id does not receives any request for 50 secs after first request it will awaken the server and after that it will work fine.
